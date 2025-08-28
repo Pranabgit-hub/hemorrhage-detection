@@ -22,4 +22,4 @@ Using a **ResNet101** architecture, this model is trained to classify CT scan im
 ### Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Brain-injury-classification.git
+git clone https://github.com/Pranabgit-hub/hemorrhage-detection.git
